@@ -1,0 +1,23 @@
+.navbar {
+  background: #fff;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-weight: bold;
+}
+.links a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: black;
+  transition: 0.3s;
+}
+.login-btn {
+  padding: 6px 12px;
+  background: black;
+  color: white;
+  border-radius: 8px;
+}
